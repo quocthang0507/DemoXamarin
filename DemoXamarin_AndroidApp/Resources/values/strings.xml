@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">DemoXamarin_AndroidApp</string>
+    <string name="app_name">Ví dụ một chương trình trên Android</string>
     <string name="action_settings">Settings</string>
+	<string name="input_a">Nhập a:</string>
+	<string name="hint_a">Giá trị của a</string>
+	<string name="input_b">Nhập b:</string>
+	<string name="hint_b">Giá trị của b</string>
+	<string name="button">Nhập</string>
 </resources>
